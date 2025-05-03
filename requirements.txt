@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pymongo
+requests
+streamlit
+pytest
+pytest-asyncio
+httpx
